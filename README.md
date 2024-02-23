@@ -1,6 +1,13 @@
 # brainfuck+2
 Like brainfuck, but with 2 more commands (that's a lie).
 
+## Usage
+Download the `.py` file, run it, and enter the code file's path. At the end of execution, you can view the memory.
+
+The memory tape is dynamic; it will add cells to the right if the pointer hits the end of it.
+
+## What's Brainfuck+2?
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The title of this repository is not correct because of technical limitations. The correct title is actually* **brainfuck+2**.
 
 **Brainfuck+2** is like brainfuck, with the addition of ~~2~~ 3 more commands. It was titled that beacuse Brainfuck+3 was taken on the wiki.
